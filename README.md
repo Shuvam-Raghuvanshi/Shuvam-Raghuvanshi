@@ -8,7 +8,21 @@ Result-oriented engineer with 4+ years of experience building scalable, high-per
 
 ---
 
-### 🛠️ Tech Stack
+### � Experience
+
+**Software Engineer — Cisco Systems India** · *Mar 2024 – Present*
+- **Flow Control Design:** Built REST APIs in Python/Django for integrations, nodes, and events; developed a React 18 + TypeScript flow-based workflow designer using Recoil and GraphQL.
+- **Unified Flow Builder:** Migrated and developed responsive pages in Angular 19 (from Angular 13) for Webex Connect; containerized with Docker/Kubernetes and automated CI/CD via Jenkins; mentored junior developers.
+- **Integrations Studio:** Created RESTful APIs with Spring Boot (migrated 2.1 → 3.2); improved reliability with JUnit/Mockito and Angular tests; led code reviews for Java and Angular teams.
+
+**Software Engineer — Innominds** · *Jul 2021 – Mar 2024*
+- **Burst:** Built a cross-platform app integrating a Python/Flask backend with an Angular frontend via Electron; created plugins for Adobe Premiere Pro.
+- **HCCC (Livermore Temple Portal):** Developed React/PrimeFaces pages for media; integrated AWS S3 storage and Elasticsearch search.
+- **Unext Learning:** Built responsive Angular 8 pages and designed Spring Boot REST APIs with Swagger documentation.
+
+---
+
+### �🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript, TypeScript, Java
 - **Frameworks:** Angular, React, Flask, Spring Boot
