@@ -2,17 +2,17 @@
 
 **Full Stack Software Engineer | IITian**
 
-Result-oriented engineer with 4+ years of experience building scalable, high-performing applications — dynamic web apps, RESTful APIs, and enterprise solutions using modern frameworks and cloud technologies.
+Result-oriented engineer with 4+ years of experience building scalable, high-performing applications — dynamic web apps, RESTful APIs, and enterprise solutions using modern frameworks and cloud technologies. I leverage AI tools (GitHub Copilot, Cursor, ChatGPT) to accelerate development and ship faster.
 
 🔗 **Portfolio:** [shuvam-raghuvanshi.github.io](https://shuvam-raghuvanshi.github.io)
 
 ---
 
-### � Experience
+### 💼 Experience
 
 **Software Engineer — Cisco Systems India** · *Mar 2024 – Present*
 - **Flow Control Design:** Built REST APIs in Python/Django for integrations, nodes, and events; developed a React 18 + TypeScript flow-based workflow designer using Recoil and GraphQL.
-- **Unified Flow Builder:** Migrated and developed responsive pages in Angular 19 (from Angular 13) for Webex Connect; containerized with Docker/Kubernetes and automated CI/CD via Jenkins; mentored junior developers.
+- **Unified Flow Builder:** Migrated and developed responsive pages in Angular 19 (from Angular 13) for Webex Connect; accelerated delivery using AI tools (GitHub Copilot, ChatGPT); containerized with Docker/Kubernetes and automated CI/CD via Jenkins; mentored junior developers.
 - **Integrations Studio:** Created RESTful APIs with Spring Boot (migrated 2.1 → 3.2); improved reliability with JUnit/Mockito and Angular tests; led code reviews for Java and Angular teams.
 
 **Software Engineer — Innominds** · *Jul 2021 – Mar 2024*
@@ -27,12 +27,14 @@ Result-oriented engineer with 4+ years of experience building scalable, high-per
 - **B.Tech** — Jabalpur Engineering College · *2013 – 2017* · CGPA 7.38/10
 
 ---
-### �🛠️ Tech Stack
+
+### 🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript, TypeScript, Java
 - **Frameworks:** Angular, React, Flask, Spring Boot
 - **Databases:** PostgreSQL, MySQL
 - **Cloud & DevOps:** AWS (S3, Lambda, API Gateway, CloudWatch, ECS), Docker, Kubernetes, Elasticsearch
+- **AI Tools:** GitHub Copilot, Cursor, ChatGPT
 - **Tools & Testing:** Git, Jira, Electron, Figma, JUnit, Vitest, Playwright
 
 ---
