@@ -2,7 +2,7 @@
 
 **Full Stack Software Engineer | IITian**
 
-Result-oriented engineer with 4+ years of experience building scalable, high-performing applications — dynamic web apps, RESTful APIs, and enterprise solutions using modern frameworks and cloud technologies. I leverage AI tools (GitHub Copilot, Cursor, ChatGPT) to accelerate development and ship faster.
+Result-oriented engineer with 5+ years of experience building scalable, high-performing applications — dynamic web apps, RESTful APIs, and enterprise solutions using modern frameworks and cloud technologies. Post-graduate (M.Tech) from IIT Kharagpur. I leverage AI tools (GitHub Copilot, Cursor, ChatGPT) to accelerate development and ship faster.
 
 🔗 **Portfolio:** [shuvam-raghuvanshi.github.io](https://shuvam-raghuvanshi.github.io)
 
