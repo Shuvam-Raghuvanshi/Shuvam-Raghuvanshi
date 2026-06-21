@@ -21,7 +21,12 @@ Result-oriented engineer with 4+ years of experience building scalable, high-per
 - **Unext Learning:** Built responsive Angular 8 pages and designed Spring Boot REST APIs with Swagger documentation.
 
 ---
+### 🎓 Education
 
+- **M.Tech** — Indian Institute of Technology Kharagpur (IIT Kgp) · *2019 – 2021* · CGPA 8.25/10
+- **B.Tech** — Jabalpur Engineering College · *2013 – 2017* · CGPA 7.38/10
+
+---
 ### �🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript, TypeScript, Java
